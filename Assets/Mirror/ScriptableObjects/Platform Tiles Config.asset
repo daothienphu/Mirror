@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8083cd64b3b47f78f901ecdaa7f6d10, type: 3}
+  m_Name: Platform Tiles Config
+  m_EditorClassIdentifier: 
+  TileSprites:
+  - {fileID: -7708260354847503932, guid: 092d3fc4fa256b7428612ae8ab65ba15, type: 3}
+  - {fileID: 384199929481580859, guid: b9e884a1b44736f48adc13b62d78a074, type: 3}
+  - {fileID: 1731708097068948912, guid: dc3b799ed8bf74748884a759494ea06a, type: 3}
+  - {fileID: 1201692297465423464, guid: f6d519e1eea892c42a32f21164ed5871, type: 3}
+  - {fileID: -4441954925777089144, guid: c8c16fafe19d8ef43b2aca58e94d3f8f, type: 3}
+  - {fileID: -1335809429144749564, guid: fc3e7332af5356d40b3865233a33e474, type: 3}
+  - {fileID: -355692081863872520, guid: f58eb76b1fe65884eaf244520d872718, type: 3}
+  - {fileID: -4053931399211739297, guid: 99dedbf78ab94fa4cb5574e8256e4a7b, type: 3}
+  - {fileID: -5784886647439137004, guid: e5304c32a0c25754da53ebe4737231c2, type: 3}
